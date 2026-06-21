@@ -1,3 +1,5 @@
+<img width="1600" height="900" alt="Screenshot From 2026-06-21 15-16-56" src="https://github.com/user-attachments/assets/2256b8b9-442b-4934-84d4-5a4ee989a485" />
+<img width="1600" height="900" alt="Screenshot From 2026-06-21 15-15-21" src="https://github.com/user-attachments/assets/408d96b8-785c-473d-b415-de3c0dd799d0" />
 # 🛍️ ClothSphere E-Commerce & AI Chatbot System
 
 An advanced, feature-rich E-Commerce desktop-web hybrid application built using **Python (Eel)**, **Vanilla Web Technologies (HTML/CSS/JS)**, and **SQL Server**. This platform seamlessly integrates standard e-commerce functionalities (shopping cart, product management, checkout) with an intelligent AI chatbot and real-time customer-to-admin communication.
